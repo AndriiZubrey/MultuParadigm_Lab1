@@ -1,0 +1,1 @@
+# MultuParadigm_Lab1
