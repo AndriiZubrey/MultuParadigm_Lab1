@@ -1,1 +1,1 @@
-# MultuParadigm_Lab1
+# MultiParadigm_Lab1
